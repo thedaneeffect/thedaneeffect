@@ -1,3 +1,13 @@
+# Hey there.
+
+Welcome to my page. Here are some things I enjoy doing:
+
+- Graphics programming
+- Software rasterization
+- Custom layer 5 protocols
+- Backend client-server architecture
+- Video games of course
+
 ## Languages
 ![C](https://medieval.software/img/tech/lang/c.png)
 ![C++](https://medieval.software/img/tech/lang/c++.png)
