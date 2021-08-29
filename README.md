@@ -12,7 +12,7 @@ Welcome to my page. Here are some things I enjoy doing:
   - https://www.youtube.com/c/PrimerLearning (Fun economic and evolution simulations)
   - https://www.youtube.com/c/K%C3%A1rolyZsolnai (The latest and greatest academic papers)
   - https://www.youtube.com/c/javidx9 (All sorts of game engine related topics)
-  - https://www.youtube.com/c/Bisqwit (Lower level programming, writing your own compiler and language, and more 3d rendering techniques.)
+  - https://www.youtube.com/c/Bisqwit (Writing your own compiler and language and 3d rendering techniques.)
 
 I'm currently working on [Rune Synergy](https://github.com/medievalsoftware/runesynergy).
 
