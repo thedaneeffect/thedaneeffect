@@ -2,7 +2,6 @@
 
 Welcome to my page. Here are some things I enjoy doing:
 
-- Graphics programming
 - Software rasterization
 - Custom layer 5 protocols
 - Backend client-server architecture
