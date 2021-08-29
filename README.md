@@ -4,7 +4,6 @@ Welcome to my page. Here are some things I enjoy doing:
 
 - Software rasterization
 - Custom layer 5 protocols
-- Backend client-server architecture
 - Video games of course
 - Following interesting channels and learning random things I'll never use:
   - https://www.youtube.com/c/DavesGarage (Random interesting programming history and observations)
