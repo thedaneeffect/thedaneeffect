@@ -13,7 +13,7 @@ Welcome to my page. Here are some things I enjoy doing:
 ![Java](https://medieval.software/img/tech/lang/java.png)
 ![C](https://medieval.software/img/tech/lang/c.png)
 ![C++](https://medieval.software/img/tech/lang/c++.png)
-![C#](https://medieval.software/img/tech/lang/csharp.png
+![C#](https://medieval.software/img/tech/lang/csharp.png)
 ![Lua 5.3](https://medieval.software/img/tech/lang/lua.png)
 
 ## Frontend
