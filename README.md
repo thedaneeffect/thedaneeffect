@@ -8,7 +8,7 @@ Welcome to my page. Here are some things I enjoy doing:
 - Backend client-server architecture
 - Video games of course
 
-I'm currently working on [Rune Synergy](http://runesynergy.net), an old school private server of RuneScape written in Go and scripted in Lua.
+I'm currently working on [Rune Synergy](https://github.com/medievalsoftware/runesynergy).
 
 ## Languages
 ![Go](https://medieval.software/img/tech/lang/golang.png)
