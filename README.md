@@ -9,11 +9,11 @@ Welcome to my page. Here are some things I enjoy doing:
 - Video games of course
 
 ## Languages
-![C](https://medieval.software/img/tech/lang/c.png)
-![C++](https://medieval.software/img/tech/lang/c++.png)
-![C#](https://medieval.software/img/tech/lang/csharp.png)
 ![Go](https://medieval.software/img/tech/lang/golang.png)
 ![Java](https://medieval.software/img/tech/lang/java.png)
+![C](https://medieval.software/img/tech/lang/c.png)
+![C++](https://medieval.software/img/tech/lang/c++.png)
+![C#](https://medieval.software/img/tech/lang/csharp.png
 ![Lua 5.3](https://medieval.software/img/tech/lang/lua.png)
 
 ## Frontend
