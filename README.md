@@ -1,16 +1,17 @@
 # Hey there.
 
-Welcome to my page. Here are some things I enjoy doing:
+Welcome to my page. Here are some things I enjoy writing:
 
 - Software rasterization
 - Custom layer 5 protocols
 - Video games of course
-- Following interesting channels and learning random things I'll never use:
-  - https://www.youtube.com/c/DavesGarage (Random interesting programming history and observations)
-  - https://www.youtube.com/c/PrimerLearning (Fun economic and evolution simulations)
-  - https://www.youtube.com/c/K%C3%A1rolyZsolnai (The latest and greatest academic papers)
-  - https://www.youtube.com/c/javidx9 (All sorts of game engine related topics)
-  - https://www.youtube.com/c/Bisqwit (Writing your own compiler and language and 3d rendering techniques.)
+
+Here are some cool channels I watch:
+- https://www.youtube.com/c/DavesGarage (Random interesting programming history and observations)
+- https://www.youtube.com/c/PrimerLearning (Fun economic and evolution simulations)
+- https://www.youtube.com/c/K%C3%A1rolyZsolnai (The latest and greatest academic papers)
+- https://www.youtube.com/c/javidx9 (All sorts of game engine related topics)
+- https://www.youtube.com/c/Bisqwit (Writing your own compiler and language and 3d rendering techniques.)
 
 I'm currently working on [Rune Synergy](https://github.com/medievalsoftware/runesynergy).
 
