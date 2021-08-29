@@ -4,7 +4,7 @@ Welcome to my page. Here are some things I enjoy writing:
 
 - Software rasterization
 - Custom layer 5 protocols
-- Video games of course
+- Games of course
 
 Here are some cool channels I watch:
 - https://www.youtube.com/c/DavesGarage (Random interesting programming history and observations)
