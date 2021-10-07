@@ -22,6 +22,8 @@ I'm currently working on [Rune Synergy](https://github.com/medievalsoftware/rune
 ![C++](https://medieval.software/img/tech/lang/c++.png)
 ![C#](https://medieval.software/img/tech/lang/csharp.png)
 ![Lua 5.3](https://medieval.software/img/tech/lang/lua.png)
+![SQL](https://user-images.githubusercontent.com/3468354/136399440-4ca4cf29-835e-4c46-b01c-3af55b7608f5.png)
+
 
 ## Frontend
 ![HTML5](https://medieval.software/img/tech/web/html5.png)
@@ -29,17 +31,22 @@ I'm currently working on [Rune Synergy](https://github.com/medievalsoftware/rune
 ![JavaScript](https://medieval.software/img/tech/web/js.png)
 ![JQuery](https://medieval.software/img/tech/web/jquery.png)
 
+## Editors
+![Vim](https://medieval.software/img/tech/tool/vim.png)
+![IntelliJ](https://medieval.software/img/tech/tool/intellij.png)
+![VSCode](https://medieval.software/img/tech/tool/vscode.png)
+![Eclipse IDE](https://user-images.githubusercontent.com/3468354/136399841-8889b8ad-43e3-4147-b603-201543971acd.png)
+
 ## Technologies
 ![Git](https://medieval.software/img/tech/tool/git.png)
-![IntelliJ](https://medieval.software/img/tech/tool/intellij.png)
-![Vim](https://medieval.software/img/tech/tool/vim.png)
-![VSCode](https://medieval.software/img/tech/tool/vscode.png)
 ![SSH/Terminal](https://medieval.software/img/tech/tool/ssh.png)
 ![OpenGL](https://medieval.software/img/tech/tool/opengl.png)
 ![PostgreSQL/MySQL](https://medieval.software/img/tech/tool/postgresql.png)
+![MySQL](https://user-images.githubusercontent.com/3468354/136400274-50e589ad-cada-4c86-8f6d-13c0d99a83b1.png)
+
 
 ## Communication & Tracking
-![GitHub](https://medieval.software/img/tech/tool/github.png)
+![GitHub](https://user-images.githubusercontent.com/3468354/136399091-48138568-c3a2-4ca2-b904-b66443274366.png)
 ![Slack](https://medieval.software/img/tech/tool/slack.png)
 ![Trello](https://medieval.software/img/tech/web/trello.png)
 
