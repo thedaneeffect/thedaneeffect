@@ -46,3 +46,5 @@ I'm currently working on [Rune Synergy](https://github.com/medievalsoftware/rune
 ## Operating Systems
 ![Windows](https://user-images.githubusercontent.com/3468354/136398706-d97f065d-4b97-453f-9808-bfa6e87eae16.png)
 ![Linux](https://medieval.software/img/tech/os/linux.png)
+![macOS](https://user-images.githubusercontent.com/3468354/136398828-c003e78e-3a18-4eff-8f33-1bb7cb52b4cd.png)
+
