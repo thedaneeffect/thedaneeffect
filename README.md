@@ -44,5 +44,5 @@ I'm currently working on [Rune Synergy](https://github.com/medievalsoftware/rune
 ![Trello](https://medieval.software/img/tech/web/trello.png)
 
 ## Operating Systems
-![Windows](https://medieval.software/img/tech/os/win11.png)
+![Windows](https://user-images.githubusercontent.com/3468354/136398584-065e6a85-3cc1-4e2b-a60f-77066f21b51b.png)
 ![Linux](https://medieval.software/img/tech/os/linux.png)
