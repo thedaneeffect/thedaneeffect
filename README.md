@@ -39,9 +39,9 @@ I'm currently working on [Rune Synergy](https://github.com/medievalsoftware/rune
 
 ## Technologies
 ![Git](https://medieval.software/img/tech/tool/git.png)
-![SSH/Terminal](https://medieval.software/img/tech/tool/ssh.png)
+![SSH](https://medieval.software/img/tech/tool/ssh.png)
+![PostgreSQL](https://medieval.software/img/tech/tool/postgresql.png)
 ![OpenGL](https://medieval.software/img/tech/tool/opengl.png)
-![PostgreSQL/MySQL](https://medieval.software/img/tech/tool/postgresql.png)
 ![MySQL](https://user-images.githubusercontent.com/3468354/136400274-50e589ad-cada-4c86-8f6d-13c0d99a83b1.png)
 
 
