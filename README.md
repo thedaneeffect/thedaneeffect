@@ -13,8 +13,6 @@ Here are some cool channels I watch:
 - https://www.youtube.com/c/javidx9 (All sorts of game engine related topics)
 - https://www.youtube.com/c/Bisqwit (Writing your own compiler and language and 3d rendering techniques.)
 
-I'm currently working on [Rune Synergy](https://github.com/medievalsoftware/runesynergy).
-
 ## Languages
 <a href="https://golang.org/">![Go](https://medieval.software/img/tech/lang/golang.png)</a>
 <a href="https://www.java.com/en/">![Java](https://medieval.software/img/tech/lang/java.png)</a>
