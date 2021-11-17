@@ -1,5 +1,5 @@
 ## Languages
-<a href="https://golang.org/">![Go](https://medieval.software/img/tech/lang/golang.png)</a>
+<a href="https://golang.org/" target="none">![Go](https://medieval.software/img/tech/lang/golang.png)</a>
 <a href="https://www.java.com/en/">![Java](https://medieval.software/img/tech/lang/java.png)</a>
 <a href="https://en.cppreference.com/w/c/language">![C](https://medieval.software/img/tech/lang/c.png)</a>
 <a href="https://en.cppreference.com/w/cpp/language">![C++](https://medieval.software/img/tech/lang/c++.png)</a>
