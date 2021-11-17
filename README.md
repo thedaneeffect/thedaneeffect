@@ -32,8 +32,8 @@
 <a href="https://trello.com/">![Trello](https://medieval.software/img/tech/web/trello.png)</a>
 
 ## Services
-<a href="https://www.hetzner.com/">![Hetzner](https://user-images.githubusercontent.com/3468354/142231869-5849df0b-5be6-465d-81e8-cee07a8a9e79.png)</a>
-<a href="">![image](https://user-images.githubusercontent.com/3468354/142232085-084bd8a2-447a-48c2-a1e5-cf1c396bf9c2.png)</a>
+<a href="https://www.hetzner.com/"><img src="https://user-images.githubusercontent.com/3468354/142232895-bf3542af-74bd-41e0-a373-3847e8a7c14a.png" style="height:3em"/></a>
+<a href="https://aws.amazon.com/"><img src="https://user-images.githubusercontent.com/3468354/142232085-084bd8a2-447a-48c2-a1e5-cf1c396bf9c2.png" style="height:3em"/></a>
 
 ## Operating Systems
 <a href="https://www.microsoft.com/en-us/windows">![Windows](https://user-images.githubusercontent.com/3468354/136398706-d97f065d-4b97-453f-9808-bfa6e87eae16.png)</a>
