@@ -7,7 +7,6 @@
 <a href="https://www.lua.org/">![Lua](https://medieval.software/img/tech/lang/lua.png)</a>
 <a href="https://www.w3schools.com/sql/">![SQL](https://user-images.githubusercontent.com/3468354/136399440-4ca4cf29-835e-4c46-b01c-3af55b7608f5.png)</a>
 
-
 ## Frontend
 <a href="https://www.w3schools.com/html/">![HTML5](https://medieval.software/img/tech/web/html5.png)</a>
 <a href="https://www.w3schools.com/css/default.asp">![CSS3](https://medieval.software/img/tech/web/css3.png)</a>
@@ -27,11 +26,14 @@
 <a href="https://www.opengl.org/">![OpenGL](https://medieval.software/img/tech/tool/opengl.png)</a>
 <a href="https://www.mysql.com/">![MySQL](https://user-images.githubusercontent.com/3468354/136400274-50e589ad-cada-4c86-8f6d-13c0d99a83b1.png)</a>
 
-
 ## Communication & Tracking
 <a href="https://github.com/">![GitHub](https://user-images.githubusercontent.com/3468354/136399091-48138568-c3a2-4ca2-b904-b66443274366.png)</a>
 <a href="https://slack.com/">![Slack](https://medieval.software/img/tech/tool/slack.png)</a>
 <a href="https://trello.com/">![Trello](https://medieval.software/img/tech/web/trello.png)</a>
+
+## Services
+<a href="https://www.hetzner.com/">![Hetzner](https://user-images.githubusercontent.com/3468354/142231869-5849df0b-5be6-465d-81e8-cee07a8a9e79.png)</a>
+<a href="">![image](https://user-images.githubusercontent.com/3468354/142232085-084bd8a2-447a-48c2-a1e5-cf1c396bf9c2.png)</a>
 
 ## Operating Systems
 <a href="https://www.microsoft.com/en-us/windows">![Windows](https://user-images.githubusercontent.com/3468354/136398706-d97f065d-4b97-453f-9808-bfa6e87eae16.png)</a>
