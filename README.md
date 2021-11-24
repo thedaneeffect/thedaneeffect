@@ -1,4 +1,4 @@
-# Things I use and/or are familiar with
+# Things I use, or are familiar with:
 
 ## Languages
 <a href="https://golang.org/" target="none">![Go](https://medieval.software/img/tech/lang/golang.png)</a>
