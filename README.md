@@ -7,17 +7,18 @@
 <a href="https://www.lua.org/">![Lua](https://medieval.software/img/tech/lang/lua.png)</a>
 <a href="https://www.w3schools.com/sql/">![SQL](https://user-images.githubusercontent.com/3468354/136399440-4ca4cf29-835e-4c46-b01c-3af55b7608f5.png)</a>
 
-## Frontend
-<a href="https://www.w3schools.com/html/">![HTML5](https://medieval.software/img/tech/web/html5.png)</a>
-<a href="https://www.w3schools.com/css/default.asp">![CSS3](https://medieval.software/img/tech/web/css3.png)</a>
-<a href="https://en.wikipedia.org/wiki/JavaScript">![JavaScript](https://medieval.software/img/tech/web/js.png)</a>
-<a href="https://jquery.com/">![JQuery](https://medieval.software/img/tech/web/jquery.png)</a>
-
 ## Editors
 <a href="https://www.vim.org/">![Vim](https://medieval.software/img/tech/tool/vim.png)</a>
 <a href="https://www.jetbrains.com/idea/">![IntelliJ](https://medieval.software/img/tech/tool/intellij.png)</a>
 <a href="https://code.visualstudio.com/">![VSCode](https://medieval.software/img/tech/tool/vscode.png)</a>
 <a href="https://www.eclipse.org/ide/">![Eclipse IDE](https://user-images.githubusercontent.com/3468354/136399841-8889b8ad-43e3-4147-b603-201543971acd.png)</a>
+
+## Frontend
+<a href="https://www.w3schools.com/html/">![HTML5](https://medieval.software/img/tech/web/html5.png)</a>
+<a href="https://www.w3schools.com/css/default.asp">![CSS3](https://medieval.software/img/tech/web/css3.png)</a>
+<a href="https://en.wikipedia.org/wiki/JavaScript">![JavaScript](https://medieval.software/img/tech/web/js.png)</a>
+<a href="https://jquery.com/">![JQuery](https://medieval.software/img/tech/web/jquery.png)</a>
+<a href="https://getbootstrap.com/"><img src="https://user-images.githubusercontent.com/3468354/143285136-3b7219d6-9b18-40fa-83be-f43fbc89fc38.png" style="height:64px"/></a>
 
 ## Technologies
 <a href="https://git-scm.com/">![Git](https://medieval.software/img/tech/tool/git.png)</a>
@@ -32,8 +33,8 @@
 <a href="https://trello.com/">![Trello](https://medieval.software/img/tech/web/trello.png)</a>
 
 ## Services
-<a href="https://www.hetzner.com/"><img src="https://user-images.githubusercontent.com/3468354/142232895-bf3542af-74bd-41e0-a373-3847e8a7c14a.png" style="height:3em"/></a>
-<a href="https://aws.amazon.com/"><img src="https://user-images.githubusercontent.com/3468354/142232085-084bd8a2-447a-48c2-a1e5-cf1c396bf9c2.png" style="height:3em"/></a>
+<a href="https://www.hetzner.com/"><img src="https://user-images.githubusercontent.com/3468354/142232895-bf3542af-74bd-41e0-a373-3847e8a7c14a.png" style="height:64px"/></a>
+<a href="https://aws.amazon.com/"><img src="https://user-images.githubusercontent.com/3468354/142232085-084bd8a2-447a-48c2-a1e5-cf1c396bf9c2.png" style="height:64px"/></a>
 
 ## Operating Systems
 <a href="https://www.microsoft.com/en-us/windows">![Windows](https://user-images.githubusercontent.com/3468354/136398706-d97f065d-4b97-453f-9808-bfa6e87eae16.png)</a>
