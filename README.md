@@ -26,8 +26,8 @@
 <a href="https://git-scm.com/">![Git](https://medieval.software/img/tech/tool/git.png)</a>
 <a href="https://en.wikipedia.org/wiki/Secure_Shell">![SSH](https://medieval.software/img/tech/tool/ssh.png)</a>
 <a href="https://www.postgresql.org/">![PostgreSQL](https://medieval.software/img/tech/tool/postgresql.png)</a>
-<a href="https://www.opengl.org/">![OpenGL](https://medieval.software/img/tech/tool/opengl.png)</a>
 <a href="https://www.mysql.com/">![MySQL](https://user-images.githubusercontent.com/3468354/136400274-50e589ad-cada-4c86-8f6d-13c0d99a83b1.png)</a>
+<a href="https://www.opengl.org/">![OpenGL](https://medieval.software/img/tech/tool/opengl.png)</a>
 
 ## Communication & Tracking
 <a href="https://github.com/">![GitHub](https://user-images.githubusercontent.com/3468354/136399091-48138568-c3a2-4ca2-b904-b66443274366.png)</a>
