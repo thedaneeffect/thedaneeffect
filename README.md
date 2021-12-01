@@ -29,6 +29,10 @@
 <a href="http://tomcat.apache.org/index.html"><img src="https://user-images.githubusercontent.com/3468354/143296241-2e2e111e-29e6-4e30-a9bb-fed53c0d4434.png" style="height:64px"/></a>
 <a href="https://spring.io/projects/spring-framework"><img src="https://user-images.githubusercontent.com/3468354/143295773-4c6cfd33-9a3e-4bab-8d77-4efcafe1f45f.png"/></a>
 
+## Automation Tools
+<a href="https://gradle.com/"><img src="https://user-images.githubusercontent.com/3468354/144298277-127b22cb-942d-4a61-80e8-06df11ec9ad2.png" style="height:64px"/></a>
+<a href="https://maven.apache.org/"><img src="https://user-images.githubusercontent.com/3468354/144301295-8e80c783-5210-4257-b256-192a46ecb683.png"/></a>
+
 ## Communication & Tracking
 <a href="https://github.com/">![GitHub](https://user-images.githubusercontent.com/3468354/136399091-48138568-c3a2-4ca2-b904-b66443274366.png)</a>
 <a href="https://slack.com/">![Slack](https://medieval.software/img/tech/tool/slack.png)</a>
