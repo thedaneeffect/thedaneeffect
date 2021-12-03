@@ -28,11 +28,11 @@
 <a href="https://www.mysql.com/">![MySQL](https://user-images.githubusercontent.com/3468354/136400274-50e589ad-cada-4c86-8f6d-13c0d99a83b1.png)</a>
 
 ## Java Specific Technologies
-<a href="http://tomcat.apache.org/index.html"><img src="https://user-images.githubusercontent.com/3468354/143296241-2e2e111e-29e6-4e30-a9bb-fed53c0d4434.png" style="height:64px"/></a>
-<a href="https://spring.io/projects/spring-framework"><img src="https://user-images.githubusercontent.com/3468354/143295773-4c6cfd33-9a3e-4bab-8d77-4efcafe1f45f.png"/></a>
-<a href="https://gradle.com/"><img src="https://user-images.githubusercontent.com/3468354/144298277-127b22cb-942d-4a61-80e8-06df11ec9ad2.png" style="height:64px"/></a>
+<a href="http://tomcat.apache.org/"><img src="https://user-images.githubusercontent.com/3468354/144680890-71cae22c-4aa7-4186-b743-6ae27ad7fd04.png"/></a>
+<a href="https://spring.io/projects/spring-framework"><img src="https://user-images.githubusercontent.com/3468354/144680846-f1118eac-c19c-478e-87b8-c2368a807385.png"/></a>
+<a href="https://gradle.com/"><img src="https://user-images.githubusercontent.com/3468354/144680789-078bdcc8-2e6b-4fa4-9c43-8018c3aa7f72.png"/></a>
 <a href="https://maven.apache.org/"><img src="https://user-images.githubusercontent.com/3468354/144680577-94bf66cf-feb5-45e6-9aae-bb1eefadde5d.png"/></a>
-<a href="http://hibernate.org/"><img src="https://user-images.githubusercontent.com/3468354/144679904-5ff5f16e-d15a-43e6-bbff-9e3d34eec626.png"/></a>
+<a href="http://hibernate.org/"><img src="https://user-images.githubusercontent.com/3468354/144680724-5b226f05-1ec3-4c47-98ff-2bfb24fc8950.png"/></a>
 
 ## Communication & Tracking
 <a href="https://github.com/">![GitHub](https://user-images.githubusercontent.com/3468354/136399091-48138568-c3a2-4ca2-b904-b66443274366.png)</a>
