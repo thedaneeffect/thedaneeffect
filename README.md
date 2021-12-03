@@ -21,15 +21,15 @@
 <a href="https://jquery.com/">![JQuery](https://medieval.software/img/tech/web/jquery.png)</a>
 <a href="https://getbootstrap.com/"><img src="https://user-images.githubusercontent.com/3468354/143285136-3b7219d6-9b18-40fa-83be-f43fbc89fc38.png" style="height:64px"/></a>
 
-## Technologies
+## Agnostic Technologies
 <a href="https://git-scm.com/">![Git](https://medieval.software/img/tech/tool/git.png)</a>
 <a href="https://en.wikipedia.org/wiki/Secure_Shell">![SSH](https://medieval.software/img/tech/tool/ssh.png)</a>
 <a href="https://www.postgresql.org/">![PostgreSQL](https://medieval.software/img/tech/tool/postgresql.png)</a>
 <a href="https://www.mysql.com/">![MySQL](https://user-images.githubusercontent.com/3468354/136400274-50e589ad-cada-4c86-8f6d-13c0d99a83b1.png)</a>
+
+## Java Specific Technologies
 <a href="http://tomcat.apache.org/index.html"><img src="https://user-images.githubusercontent.com/3468354/143296241-2e2e111e-29e6-4e30-a9bb-fed53c0d4434.png" style="height:64px"/></a>
 <a href="https://spring.io/projects/spring-framework"><img src="https://user-images.githubusercontent.com/3468354/143295773-4c6cfd33-9a3e-4bab-8d77-4efcafe1f45f.png"/></a>
-
-## Automation Tools
 <a href="https://gradle.com/"><img src="https://user-images.githubusercontent.com/3468354/144298277-127b22cb-942d-4a61-80e8-06df11ec9ad2.png" style="height:64px"/></a>
 <a href="https://maven.apache.org/"><img src="https://user-images.githubusercontent.com/3468354/144301295-8e80c783-5210-4257-b256-192a46ecb683.png"/></a>
 
