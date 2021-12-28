@@ -3,8 +3,6 @@
 ## Languages
 <a href="https://golang.org/" target="none">![Go](https://medieval.software/img/tech/lang/golang.png)</a>
 <a href="https://www.java.com/en/">![Java](https://medieval.software/img/tech/lang/java.png)</a>
-<a href="https://en.cppreference.com/w/c/language">![C](https://medieval.software/img/tech/lang/c.png)</a>
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/">![C#](https://medieval.software/img/tech/lang/csharp.png)</a>
 <a href="https://www.lua.org/">![Lua](https://medieval.software/img/tech/lang/lua.png)</a>
 <a href="https://www.w3schools.com/sql/">![SQL](https://user-images.githubusercontent.com/3468354/136399440-4ca4cf29-835e-4c46-b01c-3af55b7608f5.png)</a>
 
