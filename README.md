@@ -12,13 +12,14 @@
 <a href="https://code.visualstudio.com/">![VSCode](https://medieval.software/img/tech/tool/vscode.png)</a>
 <a href="https://www.eclipse.org/ide/">![Eclipse IDE](https://user-images.githubusercontent.com/3468354/136399841-8889b8ad-43e3-4147-b603-201543971acd.png)</a>
 
-## Web
+## Web Technologies
 <a href="https://angular.io/"><img src="https://user-images.githubusercontent.com/3468354/149840767-fec692c9-31a8-4b64-912d-f993d58f469e.png" style="height:64px"/></a>
 <a href="https://www.w3schools.com/html/">![HTML5](https://medieval.software/img/tech/web/html5.png)</a>
 <a href="https://www.w3schools.com/css/default.asp">![CSS3](https://medieval.software/img/tech/web/css3.png)</a>
 <a href="https://en.wikipedia.org/wiki/JavaScript">![JavaScript](https://medieval.software/img/tech/web/js.png)</a>
 <a href="https://jquery.com/">![JQuery](https://medieval.software/img/tech/web/jquery.png)</a>
 <a href="https://getbootstrap.com/"><img src="https://user-images.githubusercontent.com/3468354/143285136-3b7219d6-9b18-40fa-83be-f43fbc89fc38.png" style="height:64px"/></a>
+<a href="https://www.typescriptlang.org/"><img src="https://user-images.githubusercontent.com/3468354/149840900-7199b7ae-a189-43c5-adcd-031bb57a7df3.png" style="height:64px"/></a>
 
 ## Agnostic Technologies
 <a href="https://git-scm.com/">![Git](https://medieval.software/img/tech/tool/git.png)</a>
