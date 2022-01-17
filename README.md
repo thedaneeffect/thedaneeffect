@@ -20,9 +20,7 @@
 <a href="https://jquery.com/">![JQuery](https://medieval.software/img/tech/web/jquery.png)</a>
 <a href="https://getbootstrap.com/"><img src="https://user-images.githubusercontent.com/3468354/143285136-3b7219d6-9b18-40fa-83be-f43fbc89fc38.png" style="height:64px"/></a>
 
-## Agnostic Technologies
-<a href="https://git-scm.com/">![Git](https://medieval.software/img/tech/tool/git.png)</a>
-<a href="https://en.wikipedia.org/wiki/Secure_Shell">![SSH](https://medieval.software/img/tech/tool/ssh.png)</a>
+## Databases
 <a href="https://www.postgresql.org/">![PostgreSQL](https://medieval.software/img/tech/tool/postgresql.png)</a>
 <a href="https://www.mysql.com/">![MySQL](https://user-images.githubusercontent.com/3468354/136400274-50e589ad-cada-4c86-8f6d-13c0d99a83b1.png)</a>
 
@@ -34,6 +32,7 @@
 <a href="http://hibernate.org/"><img src="https://user-images.githubusercontent.com/3468354/144680724-5b226f05-1ec3-4c47-98ff-2bfb24fc8950.png"/></a>
 
 ## Communication & Tracking
+<a href="https://git-scm.com/">![Git](https://medieval.software/img/tech/tool/git.png)</a>
 <a href="https://github.com/">![GitHub](https://user-images.githubusercontent.com/3468354/136399091-48138568-c3a2-4ca2-b904-b66443274366.png)</a>
 <a href="https://slack.com/">![Slack](https://medieval.software/img/tech/tool/slack.png)</a>
 <a href="https://trello.com/">![Trello](https://medieval.software/img/tech/web/trello.png)</a>
