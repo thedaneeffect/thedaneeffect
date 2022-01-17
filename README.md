@@ -7,6 +7,8 @@
 <a href="https://www.w3schools.com/css/default.asp">![CSS3](https://medieval.software/img/tech/web/css3.png)</a>
 <a href="https://en.wikipedia.org/wiki/JavaScript">![JavaScript](https://medieval.software/img/tech/web/js.png)</a>
 <a href="https://www.typescriptlang.org/"><img src="https://user-images.githubusercontent.com/3468354/149840900-7199b7ae-a189-43c5-adcd-031bb57a7df3.png" style="height:64px"/></a>
+<a href="https://www.assemblyscript.org/"><img src="https://user-images.githubusercontent.com/3468354/149842543-ed85d328-16da-4747-9b0c-6eaad26cf064.png" style="height:64px"/></a>
+
 
 ## Java Technologies
 <a href="http://tomcat.apache.org/"><img src="https://user-images.githubusercontent.com/3468354/144680890-71cae22c-4aa7-4186-b743-6ae27ad7fd04.png"/></a>
