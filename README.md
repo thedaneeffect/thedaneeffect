@@ -3,6 +3,7 @@
 ## Languages
 <a href="https://golang.org/" target="none">![Go](https://medieval.software/img/tech/lang/golang.png)</a>
 <a href="https://www.java.com/en/">![Java](https://medieval.software/img/tech/lang/java.png)</a>
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://user-images.githubusercontent.com/3468354/159173216-ab461c48-9708-41c5-800c-5be25668e500.png" style="height:64px"/></a>
 <a href="https://www.w3schools.com/html/">![HTML5](https://medieval.software/img/tech/web/html5.png)</a>
 <a href="https://www.w3schools.com/css/default.asp">![CSS3](https://medieval.software/img/tech/web/css3.png)</a>
 <a href="https://en.wikipedia.org/wiki/JavaScript">![JavaScript](https://medieval.software/img/tech/web/js.png)</a>
@@ -26,6 +27,8 @@
 <a href="https://www.postgresql.org/">![PostgreSQL](https://medieval.software/img/tech/tool/postgresql.png)</a>
 <a href="https://www.mysql.com/">![MySQL](https://user-images.githubusercontent.com/3468354/136400274-50e589ad-cada-4c86-8f6d-13c0d99a83b1.png)</a>
 <a href="https://www.mysql.com/products/workbench/"><img src="https://user-images.githubusercontent.com/3468354/149841600-ed4f05ef-0fac-40c4-aeef-c62b1c8bc059.png" style="height:64px"/></a>
+<a href="https://docs.microsoft.com/en-us/sql/?view=sql-server-ver15"><img src="https://user-images.githubusercontent.com/3468354/159173264-7252ade6-9825-4bcb-a603-bb1eea2ac5c1.png" style="height:64px"/></a>
+
 
 ## Communication & Tracking
 <a href="https://git-scm.com/">![Git](https://medieval.software/img/tech/tool/git.png)</a>
