@@ -1,11 +1,5 @@
 # Things I use or are familiar with:
 
-## Infrequently Asked Questions
-
-- What's your favorite language right now?
-  - C for performance applications
-  - Go for general purpose applications 
-
 ## Languages
 <a href="https://golang.org/" target="none">![Go](https://medieval.software/img/tech/lang/golang.png)</a>
 <a href="https://en.cppreference.com/w/c" target="none">![Go](https://medieval.software/img/tech/lang/c.png)</a>
@@ -61,3 +55,8 @@
 <a href="https://en.wikipedia.org/wiki/Linux">![Linux](https://medieval.software/img/tech/os/linux.png)</a>
 <a href="https://www.apple.com/macos">![macOS](https://user-images.githubusercontent.com/3468354/136398828-c003e78e-3a18-4eff-8f33-1bb7cb52b4cd.png)</a>
 
+# Infrequently Asked Questions
+
+## What's your favorite language right now?
+- C for performance applications
+- Go for general purpose applications 
