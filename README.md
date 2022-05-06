@@ -1,5 +1,11 @@
 # Things I use or are familiar with:
 
+## Infrequently Asked Questions
+
+- What's your favorite language right now?
+  - C for performance applications
+  - Go for general purpose applications 
+
 ## Languages
 <a href="https://golang.org/" target="none">![Go](https://medieval.software/img/tech/lang/golang.png)</a>
 <a href="https://en.cppreference.com/w/c" target="none">![Go](https://medieval.software/img/tech/lang/c.png)</a>
