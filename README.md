@@ -47,10 +47,9 @@
 <a href="https://www.vim.org/"><img title="Vim" src="https://user-images.githubusercontent.com/3468354/197047866-06b5c789-08d8-4e96-8011-218e96d279af.png" style="height:64px"/></a>
 <a href="https://www.jetbrains.com/goland/"><img src="https://user-images.githubusercontent.com/3468354/149841950-37c6a5bd-c27f-43c3-9efa-2a4f0b0d5886.png" style="height:64px"/></a>
 <a href="https://www.jetbrains.com/idea/"><img title="IntelliJ" src="https://user-images.githubusercontent.com/3468354/197048109-ad892b1c-5709-48b1-98c1-3afe9d9b640e.png" style="height:64px"/></a>
-
 <a href="https://code.visualstudio.com/"><img src="https://user-images.githubusercontent.com/3468354/149842161-5cff6494-c0c7-4f6d-ba89-882be3869280.png" style="height:64px"/></a>
 <a href="https://visualstudio.microsoft.com/"><img src="https://user-images.githubusercontent.com/3468354/159173406-ddc7fe0c-7356-4cbc-9877-eb7ce4f0c144.png" style="height:64px"/></a>
-<a href="https://www.eclipse.org/ide/">![Eclipse IDE](https://user-images.githubusercontent.com/3468354/136399841-8889b8ad-43e3-4147-b603-201543971acd.png)</a>
+<a href="https://www.eclipse.org/ide/"><img title="Eclipse" src="https://user-images.githubusercontent.com/3468354/136399841-8889b8ad-43e3-4147-b603-201543971acd.png" style="height:64px"/></a>
 
 ## Operating Systems
 <a href="https://www.microsoft.com/en-us/windows">![Windows](https://user-images.githubusercontent.com/3468354/136398706-d97f065d-4b97-453f-9808-bfa6e87eae16.png)</a>
