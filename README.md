@@ -36,7 +36,7 @@
 <a href="https://git-scm.com/"><img title="Git" src="https://user-images.githubusercontent.com/3468354/197046927-327958fd-2793-4768-b068-13e983a9ad85.png" style="height:64px;"/></a>
 <a href="https://github.com/">![GitHub](https://user-images.githubusercontent.com/3468354/136399091-48138568-c3a2-4ca2-b904-b66443274366.png)</a>
 <a href="https://slack.com/"><img title="Slack" src="https://user-images.githubusercontent.com/3468354/197047398-a6262639-b7a0-4763-a111-0f87e8e18b64.png" style="height:64px;"/></a>
-<a href="https://trello.com/"><img title="Trello" src="https://user-images.githubusercontent.com/3468354/197047564-00c4b85b-113e-4253-b50f-63d52646f7af.png" style="height:64px"</a>
+<a href="https://trello.com/"><img title="Trello" src="https://user-images.githubusercontent.com/3468354/197047564-00c4b85b-113e-4253-b50f-63d52646f7af.png" style="height:64px"/></a>
 
 ## Services
 <a href="https://www.hetzner.com/"><img src="https://user-images.githubusercontent.com/3468354/142232895-bf3542af-74bd-41e0-a373-3847e8a7c14a.png" style="height:64px"/></a>
