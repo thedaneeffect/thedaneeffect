@@ -23,14 +23,13 @@
 ## Web Technologies
 <a href="https://angular.io/"><img src="https://user-images.githubusercontent.com/3468354/149840767-fec692c9-31a8-4b64-912d-f993d58f469e.png" style="height:64px"/></a>
 <a href="https://getbootstrap.com/"><img src="https://user-images.githubusercontent.com/3468354/143285136-3b7219d6-9b18-40fa-83be-f43fbc89fc38.png" style="height:64px"/></a>
-<a href="https://jquery.com/">![JQuery](https://medieval.software/img/tech/web/jquery.png)</a>
+<a href="https://jquery.com/"><img src="https://user-images.githubusercontent.com/3468354/197045536-58e7c142-2511-45a9-8fc4-94f586af2eea.png" style="height:64px"/></a>
 
 ## Database Technologies
 <a href="https://www.postgresql.org/">![PostgreSQL](https://medieval.software/img/tech/tool/postgresql.png)</a>
 <a href="https://www.mysql.com/">![MySQL](https://user-images.githubusercontent.com/3468354/136400274-50e589ad-cada-4c86-8f6d-13c0d99a83b1.png)</a>
 <a href="https://www.mysql.com/products/workbench/"><img src="https://user-images.githubusercontent.com/3468354/149841600-ed4f05ef-0fac-40c4-aeef-c62b1c8bc059.png" style="height:64px"/></a>
 <a href="https://docs.microsoft.com/en-us/sql/?view=sql-server-ver15"><img src="https://user-images.githubusercontent.com/3468354/159173264-7252ade6-9825-4bcb-a603-bb1eea2ac5c1.png" style="height:64px"/></a>
-
 
 ## Communication & Tracking
 <a href="https://git-scm.com/">![Git](https://medieval.software/img/tech/tool/git.png)</a>
@@ -49,7 +48,6 @@
 <a href="https://code.visualstudio.com/"><img src="https://user-images.githubusercontent.com/3468354/149842161-5cff6494-c0c7-4f6d-ba89-882be3869280.png" style="height:64px"/></a>
 <a href="https://visualstudio.microsoft.com/"><img src="https://user-images.githubusercontent.com/3468354/159173406-ddc7fe0c-7356-4cbc-9877-eb7ce4f0c144.png" style="height:64px"/></a>
 <a href="https://www.eclipse.org/ide/">![Eclipse IDE](https://user-images.githubusercontent.com/3468354/136399841-8889b8ad-43e3-4147-b603-201543971acd.png)</a>
-
 
 ## Operating Systems
 <a href="https://www.microsoft.com/en-us/windows">![Windows](https://user-images.githubusercontent.com/3468354/136398706-d97f065d-4b97-453f-9808-bfa6e87eae16.png)</a>
