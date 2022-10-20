@@ -1,7 +1,8 @@
 # Things I use or are familiar with:
 
 ## Languages
-<a href="https://golang.org/" target="none">![Go](https://medieval.software/img/tech/lang/golang.png)</a>
+
+<a href="https://golang.org/"><img src="https://user-images.githubusercontent.com/3468354/197044074-a2e38279-a988-4e46-8168-648dbd6bf5ef.png" style="height:64px"/></a>
 <a href="https://en.cppreference.com/w/c" target="none">![Go](https://medieval.software/img/tech/lang/c.png)</a>
 <a href="https://www.java.com/en/">![Java](https://medieval.software/img/tech/lang/java.png)</a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://user-images.githubusercontent.com/3468354/159173216-ab461c48-9708-41c5-800c-5be25668e500.png" style="height:64px"/></a>
