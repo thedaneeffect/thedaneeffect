@@ -3,12 +3,12 @@
 ## Languages
 
 <a href="https://golang.org/"><img src="https://user-images.githubusercontent.com/3468354/197044074-a2e38279-a988-4e46-8168-648dbd6bf5ef.png" style="height:64px"/></a>
-<a href="https://en.cppreference.com/w/c" target="none">![Go](https://medieval.software/img/tech/lang/c.png)</a>
-<a href="https://www.java.com/en/">![Java](https://medieval.software/img/tech/lang/java.png)</a>
+<a href="https://en.cppreference.com/w/c"><img src="https://user-images.githubusercontent.com/3468354/197044343-97e26387-5ae0-485c-bc42-fb1afa0a3db8.png" style="height:64px"/></a>
+<a href="https://www.java.com/en/"><img src="https://user-images.githubusercontent.com/3468354/197044466-96c31b09-9b52-4dea-99bd-70369a902175.png" style="height:64px"/></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://user-images.githubusercontent.com/3468354/159173216-ab461c48-9708-41c5-800c-5be25668e500.png" style="height:64px"/></a>
-<a href="https://www.w3schools.com/html/">![HTML5](https://medieval.software/img/tech/web/html5.png)</a>
-<a href="https://www.w3schools.com/css/default.asp">![CSS3](https://medieval.software/img/tech/web/css3.png)</a>
-<a href="https://en.wikipedia.org/wiki/JavaScript">![JavaScript](https://medieval.software/img/tech/web/js.png)</a>
+<a href="https://www.w3schools.com/html/"><img src="https://user-images.githubusercontent.com/3468354/197044699-82a4ac8d-49a6-4f61-8cdb-40458fd516ca.png" style="height:64px"/></a>
+<a href="https://www.w3schools.com/css/default.asp"><img src="https://user-images.githubusercontent.com/3468354/197044826-d8150ee8-3d22-459f-a047-a26607380197.png" style="height:64px"/></a>
+<a href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://user-images.githubusercontent.com/3468354/197045106-21a2a461-7691-4ab5-8ff2-f2f765627c31.png" style="height:64px"/></a>
 <a href="https://www.typescriptlang.org/"><img src="https://user-images.githubusercontent.com/3468354/149840900-7199b7ae-a189-43c5-adcd-031bb57a7df3.png" style="height:64px"/></a>
 <a href="https://www.assemblyscript.org/"><img src="https://user-images.githubusercontent.com/3468354/149842543-ed85d328-16da-4747-9b0c-6eaad26cf064.png" style="height:64px"/></a>
 
