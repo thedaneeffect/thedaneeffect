@@ -23,7 +23,7 @@
 ## Web Technologies
 <a href="https://angular.io/"><img src="https://user-images.githubusercontent.com/3468354/149840767-fec692c9-31a8-4b64-912d-f993d58f469e.png" style="height:64px"/></a>
 <a href="https://getbootstrap.com/"><img src="https://user-images.githubusercontent.com/3468354/143285136-3b7219d6-9b18-40fa-83be-f43fbc89fc38.png" style="height:64px"/></a>
-<a href="https://jquery.com/"><img src="https://user-images.githubusercontent.com/3468354/197045536-58e7c142-2511-45a9-8fc4-94f586af2eea.png" style="height:64px"/></a>
+<a href="https://jquery.com/"><img alt="JQuery" src="https://user-images.githubusercontent.com/3468354/197045536-58e7c142-2511-45a9-8fc4-94f586af2eea.png" style="height:64px"/></a>
 
 ## Database Technologies
 <a href="https://www.postgresql.org/">![PostgreSQL](https://medieval.software/img/tech/tool/postgresql.png)</a>
