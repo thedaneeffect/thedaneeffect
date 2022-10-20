@@ -26,9 +26,8 @@
 <a href="https://jquery.com/"><img title="JQuery" src="https://user-images.githubusercontent.com/3468354/197045536-58e7c142-2511-45a9-8fc4-94f586af2eea.png" style="height:64px"/></a>
 <a href="https://reactjs.org/"><img title="React" src="https://user-images.githubusercontent.com/3468354/197046012-074188d3-18cb-4c75-aca3-a97fdc747e02.png" style="height:64px"/></a>
 
-
 ## Database Technologies
-<a href="https://www.postgresql.org/">![PostgreSQL](https://medieval.software/img/tech/tool/postgresql.png)</a>
+<a href="https://www.postgresql.org/"><img title="Postgres" src="https://user-images.githubusercontent.com/3468354/197046306-7ea6486a-bfee-4d6a-8705-fcbfa4f5f06e.png" style="height:64px;"/>
 <a href="https://www.mysql.com/">![MySQL](https://user-images.githubusercontent.com/3468354/136400274-50e589ad-cada-4c86-8f6d-13c0d99a83b1.png)</a>
 <a href="https://www.mysql.com/products/workbench/"><img src="https://user-images.githubusercontent.com/3468354/149841600-ed4f05ef-0fac-40c4-aeef-c62b1c8bc059.png" style="height:64px"/></a>
 <a href="https://docs.microsoft.com/en-us/sql/?view=sql-server-ver15"><img src="https://user-images.githubusercontent.com/3468354/159173264-7252ade6-9825-4bcb-a603-bb1eea2ac5c1.png" style="height:64px"/></a>
